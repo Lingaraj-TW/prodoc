@@ -1,5 +1,6 @@
 # ✍️ Linga Raj M | Senior Associate - Technical Writer
-<<<<<<< HEAD
+
+1
  
 ## 🌟8+ Years of Driving User Documentation Excellence in SaaS and healthcare documentation.
 =======
